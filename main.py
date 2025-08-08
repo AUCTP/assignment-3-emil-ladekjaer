@@ -1,3 +1,7 @@
+"""
+Students: Emil Rahbek Ladekjær & David Antoine Probst
+"""
+
 import numpy as np
 
 
