@@ -1,9 +1,7 @@
 """
 Students: Emil Rahbek Ladekjær & David Antoine Probst
 """
-
 import numpy as np
-
 
 def demand_n_days(days, avgdemand):
     demand_list=[]
